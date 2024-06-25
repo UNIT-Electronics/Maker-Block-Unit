@@ -1,7 +1,7 @@
 /*
     UNIT MAKER BLOCK Practica 1: Encendido de LED con botón
     En esta practica aprenderás como encender el LED conectado al pin digital 13
-    al pulsar el botón conectado al pin 5 de tu tarjeta Arduino UNO
+    al pulsar el botón conectado al pin 5 de tu UNIT Maker Block
     Copyright (C) 2024  UNIT Electronics
 */
 
@@ -20,8 +20,8 @@ void loop() {
     if(digitalRead(5) == 0) //Si la lectura del Pin digital 5 es igual a 0
     {
         digitalWrite(13,1); //Se enciende el LED conectado al Pin 13
-        delay(1000);        //Pausa de 1s
     }
+    //Si la lectura del pin digital 5 es diferente de 0
     digitalWrite(13,0);     //Se apaga el LED conectado al Pin 13
     digitalWrite(8,0);      //Se coloca el Pin 8 en estado bajo
     digitalWrite(7,0);      //Se coloca el pin 7 en estado bajo
