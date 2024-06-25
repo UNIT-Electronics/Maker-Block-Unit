@@ -1,0 +1,2 @@
+#Ignora desktop.ini
+desktop.ini
