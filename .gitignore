@@ -1,2 +1,5 @@
 #Ignora desktop.ini
 desktop.ini
+
+#Ignora .vscode
+.vscode
