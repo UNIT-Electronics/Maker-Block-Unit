@@ -3,3 +3,6 @@ desktop.ini
 
 #Ignora .vscode
 .vscode
+
+#"Ignora archivo .txt"
+*.txt

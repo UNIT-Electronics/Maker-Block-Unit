@@ -6,7 +6,7 @@ El UNIT Maker Block es un kit de electrónica y programación con una serie de c
 
 ## CONTENIDO
 + [Videos](#videos)
-+ [¿Cómo importar códigos mBlock?]()
++ [¿Cómo importar códigos mBlock?](#importar-códigos-mblock)
 + [Código mBlock](#códigos-mblock)
 + [Imágenes mBlock](#imágenes-mblock)
 
@@ -31,7 +31,7 @@ El UNIT Maker Block es un kit de electrónica y programación con una serie de c
 ### 6. Ensamble y programación de Brazo
 + [**Brazo Robot**](https://www.youtube.com/watch?v=9DHy2TkKxhw)
 
-## ¿CÓMO IMPORTAR CÓDIGOS MBLOCK?
+## IMPORTAR CÓDIGOS MBLOCK
 Para importar los códigos mBlock de tu ordenador a tu cuenta maker block en linea, debes seguir los siguientes pasos:
 1. Descarga el archivo .mblock de la práctica, reto o juego que quieras.
 2. En el entorno de maker block en línea coloca el cursor sobre `Archivo` y selecciona `Importar desde tu ordenador`.
