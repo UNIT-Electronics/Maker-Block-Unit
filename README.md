@@ -36,11 +36,11 @@ Para importar los códigos mBlock de tu ordenador a tu cuenta maker block en lin
 1. Descarga el archivo .mblock de la práctica, reto o juego que quieras.
 2. En el entorno de maker block en línea coloca el cursor sobre `Archivo` y selecciona `Importar desde tu ordenador`.
    
-    ![Imagen del paso 2 de como importar código mBlock](Paso2.png)
+    ![Imagen del paso 2 de como importar código mBlock](https://uelectronics.com/wp-content/uploads/2021/08/AR2772-UNIT-Maker-Block-V13.jpg)
 
 3. Selecciona el archivo que deseas importar y da clic en abrir y ¡Listo!
     
-    ![Imagen código mBlock importado](PasoFinal.png)
+    ![Imagen código mBlock importado](https://uelectronics.com/wp-content/uploads/2021/08/AR2772-UNIT-Maker-Block-V14-1.jpg)
 
 ## CÓDIGOS MBLOCK
 ### **Practicas**
