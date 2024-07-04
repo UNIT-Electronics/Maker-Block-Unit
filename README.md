@@ -70,7 +70,7 @@ Para importar los códigos mBlock de tu ordenador a tu cuenta maker block en lin
 + [**Practica 3: Encendido de buzzer con un botón**](https://github.com/UNIT-Electronics/Maker-Block-Unit/blob/main/Imagenes_MBlock/Practica3%20-%20Encendido%20de%20buzzer%20con%20un%20boton.png)
 + [**Práctica 4: Hacer un saludo con el Servo**](https://github.com/UNIT-Electronics/Maker-Block-Unit/blob/main/Imagenes_MBlock/Pr%C3%A1ctica4%20-%20Hacer%20un%20saludo%20con%20el%20Servo.png)
 + [**Práctica 5: Encender LED con el joystick**](https://github.com/UNIT-Electronics/Maker-Block-Unit/blob/main/Imagenes_MBlock/Pr%C3%A1ctica5%20-%20Encender%20LED%20con%20el%20joystick.png)
-+ [**Practica 6: Mover el servo con el joystick**]()
++ [**Practica 6: Mover el servo con el joystick**](https://github.com/UNIT-Electronics/Maker-Block-Unit/blob/main/Imagenes_MBlock/Practica6%20-%20Mover%20el%20servo%20con%20el%20joystick.png)
 
 ### **Retos**
 + [**Reto 1: Encendido de Leds con cada botón**](https://github.com/UNIT-Electronics/Maker-Block-Unit/blob/main/Imagenes_MBlock/Reto1%20-%20Encendido%20de%20Leds%20con%20cada%20boton.png)
